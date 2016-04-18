@@ -41,8 +41,5 @@ namespace KrRob
             else if (Task == "Открыть файл")
                 Date.Read();
          }
-
-
-
     }
 }
